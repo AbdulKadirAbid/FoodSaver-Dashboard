@@ -1,0 +1,31 @@
+import {
+  Bar,
+  BarChart,
+  CartesianGrid,
+  Legend,
+  ResponsiveContainer,
+  Tooltip,
+  XAxis,
+  YAxis,
+  Cell,
+  Pie,
+  PieChart,
+  Area,
+  AreaChart,
+} from 'recharts';
+
+export {
+  Bar,
+  BarChart,
+  CartesianGrid,
+  Legend,
+  ResponsiveContainer,
+  Tooltip,
+  XAxis,
+  YAxis,
+  Cell,
+  Pie,
+  PieChart,
+  Area,
+  AreaChart,
+};
