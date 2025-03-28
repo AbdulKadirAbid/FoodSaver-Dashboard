@@ -28,7 +28,6 @@ The "FoodSaver Dashboard" is a responsive web application designed to visualize 
 - Spring Boot
 - Java
 - H2 Database (in-memory, used for demo data)
-- Maven for build automation
 
 ## Run Locally
 
