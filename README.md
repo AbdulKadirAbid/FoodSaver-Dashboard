@@ -46,7 +46,7 @@ npm run dev
 ### Backend Setup
 ```bash
 java -jar zero.jar
-
+```
 
 > The backend will run on `localhost:8080` and the frontend on `localhost:3000`.
 
