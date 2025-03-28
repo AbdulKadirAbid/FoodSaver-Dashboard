@@ -45,9 +45,8 @@ npm run dev
 
 ### Backend Setup
 ```bash
-cd backend
-./mvnw spring-boot:run
-```
+java -jar zero.jar
+
 
 > The backend will run on `localhost:8080` and the frontend on `localhost:3000`.
 
